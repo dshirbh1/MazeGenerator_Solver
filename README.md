@@ -4,9 +4,11 @@ Welcome to the Maze Generation and Solving project! This project involves genera
 ## Overview
 This Python program generates mazes and finds a path through them. It includes two main parts:
 
-### Maze Generation (Recursive Backtracking): In this part, we generate a maze with a start point and an end point. The maze generation process involves carving pathways through the maze cells. We use a recursive backtracking algorithm to achieve this.
+### Maze Generation (Recursive Backtracking): 
+In this part, we generate a maze with a start point and an end point. The maze generation process involves carving pathways through the maze cells. We use a recursive backtracking algorithm to achieve this.
 
-### Maze Solving (A* Algorithm): Once the maze is generated, we find the shortest path from the start to the end point. We utilize the A* algorithm to determine the optimal route through the maze.
+### Maze Solving (A* Algorithm): 
+Once the maze is generated, we find the shortest path from the start to the end point. We utilize the A* algorithm to determine the optimal route through the maze.
 
 ## How to Use
 Follow these steps to set up and use the maze generation and solving program:
@@ -18,7 +20,6 @@ pip install pygame
 5. Run the Program
 6. Follow the prompts to set the maze parameters, including height, width, cell size, start point (X and Y), and end point (X and Y).
 7. The program will display the maze generation and solving process using the pygame window.
-
 8. You can exit the program by closing the pygame window.
 
 ## Example Usage
